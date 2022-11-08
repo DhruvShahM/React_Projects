@@ -204,9 +204,9 @@ nav {
   .nav-toggle {
     display: none;
   }
-  .links-container {
+  /* .links-container {
     height: auto !important;
-  }
+  } */
   .links {
     display: flex;
   }
